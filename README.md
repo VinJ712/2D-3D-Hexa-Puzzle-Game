@@ -8,7 +8,7 @@
 A Puzzle 2D and 3D Maze game.
 
 # Download Link
-<br>Windows: [**Windows - Typing Game**](https://drive.google.com/file/d/1KeARp4CDXgvbDdxlzz3d_VLLjvFN4S4U/view?usp=drive_link)
+<br>Windows: [** - Typing Game**](https://drive.google.com/file/d/1KeARp4CDXgvbDdxlzz3d_VLLjvFN4S4U/view?usp=drive_link)
 
 # Software Used
 - Unity
